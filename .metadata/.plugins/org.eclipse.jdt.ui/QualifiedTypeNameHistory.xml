@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.apache.hadoop.io.Text"/>
+<fullyQualifiedTypeName name="org.apache.commons.lang.StringUtils"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.MRJobConfig"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.io.compress.SnappyCodec"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.io.compress.CompressionCodec"/>
+<fullyQualifiedTypeName name="hbasemr.StockConstants"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.hbase.client.Put"/>
+</qualifiedTypeNameHistroy>

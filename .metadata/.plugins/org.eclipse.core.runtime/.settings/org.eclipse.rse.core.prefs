@@ -1,0 +1,4 @@
+activeuserprofiles=Team;sandbox;ubuntu
+eclipse.preferences.version=1
+org.eclipse.rse.systemtype.local.systemType.defaultUserId=train
+useridperkey=sandbox.Local\=train;

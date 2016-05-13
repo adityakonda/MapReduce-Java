@@ -1,0 +1,9 @@
+package customsort;
+
+import org.apache.hadoop.io.WritableComparator;
+
+public class StockGroupComparator extends WritableComparator {
+	
+	protected
+
+}
