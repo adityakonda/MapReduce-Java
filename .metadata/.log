@@ -6574,3 +6574,6 @@ Caused by: java.lang.ClassNotFoundException: javafx.beans.value.ChangeListener c
 !MESSAGE No repository found containing: org.eclipse.update.feature,org.eclipse.mylyn.team_feature,3.19.0.v20160316-2105
 !SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2016-05-12 18:36:14.783
 !MESSAGE No repository found containing: org.eclipse.update.feature,org.eclipse.mylyn_feature,3.19.0.v20160331-1842
+
+!ENTRY org.eclipse.ui.browser 2 0 2016-05-12 22:48:00.750
+!MESSAGE Internal browser is not available: No more handles [Unknown Mozilla path (MOZILLA_FIVE_HOME not set)]

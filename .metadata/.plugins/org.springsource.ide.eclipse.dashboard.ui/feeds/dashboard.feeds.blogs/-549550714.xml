@@ -5,7 +5,7 @@
   <link rel="self" href="https://spring.io/blog.atom" />
   <id>http://spring.io/blog.atom</id>
   <icon>https://spring.io/favicon.ico</icon>
-  <updated>2016-05-12T12:24:21Z</updated>
+  <updated>2016-05-12T12:24:00Z</updated>
   <entry>
     <title>Spring Integration 4.3.0 Release Candidate Available</title>
     <link rel="alternate" href="https://spring.io/blog/2016/05/12/spring-integration-4-3-0-release-candidate-available" />
@@ -14,7 +14,7 @@
       <name>Gary Russell</name>
     </author>
     <id>tag:spring.io,2016-05-11:2499</id>
-    <updated>2016-05-12T12:24:21Z</updated>
+    <updated>2016-05-12T12:24:00Z</updated>
     <content type="html">&lt;p&gt;I am pleased to announce the availability of Spring Integration 4.3.0.RC1 - the first (and final) release candidate; it is available from the &lt;a href="https://repo.spring.io/milestone"&gt;spring milestone repo&lt;/a&gt; The GA release should follow shortly after the GA release of Spring Framework 4.3.&lt;/p&gt;
 &lt;p&gt;4.2.6.RELEASE is also available in the &lt;a href="https://repo.spring.io/release"&gt;spring release repo&lt;/a&gt; as well as maven central. This release includes a few &lt;a href="https://jira.spring.io/jira/secure/ReleaseNote.jspa?projectId=10121&amp;version=15498"&gt;important bug fixes&lt;/a&gt; and all users are encouraged to upgrade to it.&lt;/p&gt;
 &lt;p&gt;4.3 is only a minor release with a few new features and improvements over 4.2 and will close out the 4.x line. Meanwhile we are looking forward to embrace the &lt;a href="https://spring.io/blog/2016/02/16/reactor-2-5-a-second-generation-reactive-foundation-for-the-jvm"&gt;Reactive Foundation for the JVM&lt;/a&gt; in Spring Integration 5.0. We have yet to determine exactly what that means, so stay tuned! In addition, 5.0 (2017) will include the (currently separate) &lt;a href="https://github.com/spring-projects/spring-integration-java-dsl"&gt;Spring Integration Java DSL&lt;/a&gt;.&lt;/p&gt;
@@ -98,7 +98,7 @@
   &lt;li&gt;
   &lt;p&gt;Various minor fixes and improvements.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;The release addresses &lt;a href="https://jira.spring.io/issues/?jql=project%20%3D%20%22Spring%20Integration%22%20AND%20fixVersion%20in%20%28%224.3%20M1%22%2C%20%224.3%20M2%22%2C%20%224.3%20RC1%22%29%20%20ORDER%20BY%20fixVersion%2C%20priority%20DESC"&gt;over 125 JIRA issues&lt;/a&gt;. Also see the &lt;a href="http://docs.spring.io/spring-integration/docs/4.3.0.RC11/reference/html/whats-new.html"&gt;What&amp;rsquo;s New&lt;/a&gt; for a summary of the major changes. We are very grateful for a number of external contributions to the project - thank you all!.&lt;/p&gt;
+&lt;p&gt;The release addresses &lt;a href="https://jira.spring.io/issues/?jql=project%20%3D%20%22Spring%20Integration%22%20AND%20fixVersion%20in%20%28%224.3%20M1%22%2C%20%224.3%20M2%22%2C%20%224.3%20RC1%22%29%20%20ORDER%20BY%20fixVersion%2C%20priority%20DESC"&gt;over 125 JIRA issues&lt;/a&gt;. Also see the &lt;a href="http://docs.spring.io/spring-integration/docs/4.3.0.RC1/reference/html/whats-new.html"&gt;What&amp;rsquo;s New&lt;/a&gt; for a summary of the major changes. We are very grateful for a number of external contributions to the project - thank you all!.&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://projects.spring.io/spring-integration/"&gt;Project Page&lt;/a&gt; | &lt;a href="https://jira.spring.io/browse/INT"&gt;JIRA&lt;/a&gt; | &lt;a href="https://github.com/spring-projects/spring-integration/blob/master/CONTRIBUTING.md"&gt;Contributions&lt;/a&gt; | &lt;a href="http://stackoverflow.com"&gt;StackOverflow&lt;/a&gt; (&lt;code&gt;spring-integration&lt;/code&gt; tag)&lt;/p&gt;
 &lt;p&gt;If you are attending Spring IO in Barcelona, I will be talking about Spring Integration and Spring AMQP on Friday, May 20. There are many other great talks from the Spring team members, so check the &lt;a href="http://www.springio.net/agenda/"&gt;agenda&lt;/a&gt;. &lt;/p&gt;
 &lt;p&gt;This is also a reminder that &lt;a href="http://springoneplatform.io"&gt;Spring One Platform&lt;/a&gt; will be taking place in Las Vegas between August 1-4 this year, and you should consider &lt;a href="https://2016.event.springoneplatform.io/register"&gt;getting your ticket&lt;/a&gt; if you haven’t done so already. &lt;/p&gt;</content>
