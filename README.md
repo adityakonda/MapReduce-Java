@@ -1,4 +1,4 @@
-'''
+```
 import re
 import collections
 import os
@@ -118,4 +118,4 @@ if __name__ == "__main__":
     log_file_path = r"C:\Users\adity\Downloads\test.log"  # Update path
     main(log_file_path)
 
-'''
+```
